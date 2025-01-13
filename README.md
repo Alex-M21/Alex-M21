@@ -1,4 +1,4 @@
-# ¡Hola, soy Alex-M21 👨‍💻
+# ¡Hola, soy Alexander Mejia 👨‍💻
 
 Soy un **estudiante de cierre pensum** en Ingeniería en Ciencias Sistemas, con un **gran amor por la programación** y un enfoque en el **desarrollo web**. He tenido la oportunidad de estudiar y trabajar con una amplia gama de tecnologías, desde **Java** hasta **Python**, pasando por **Node.js**, **Golang**, **C++**, **Arduino**.
 
