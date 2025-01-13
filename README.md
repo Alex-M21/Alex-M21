@@ -39,7 +39,17 @@ Actualmente, estoy trabajando en mi **cierre de pensum** para completar mi carre
 ![Git](https://img.shields.io/badge/Git-F1502F.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-M21&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
+## 📊 **Estadísticas de GitHub**:
+| **Métrica**                      | **Estadísticas** |
+|-----------------------------------|------------------|
+| **GitHub Stats**                  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-M21&show_icons=true&count_private=true&hide=prs&theme=radical) |
+| **Repositorios más populares**    | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-M21&layout=compact&theme=radical)](https://github.com/Alex-M21) |
+| **Estrellas en repositorios**     | ![GitHub followers](https://img.shields.io/github/followers/Alex-M21?style=social) ![GitHub stars](https://img.shields.io/github/stars/Alex-M21?style=social) |
+| **Lenguajes más usados**         | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-M21&count_private=true&hide=html&layout=compact&theme=radical) |
+| **Certificaciones**              | ![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white) |
+
 
 ---
 
