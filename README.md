@@ -39,6 +39,8 @@ Actualmente, estoy trabajando en mi **cierre de pensum** para completar mi carre
 ![Git](https://img.shields.io/badge/Git-F1502F.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-M21&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 ---
 
 ### 🌱 **Lo que me apasiona**:
