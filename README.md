@@ -1,6 +1,6 @@
 # ¡Hola, soy Alexander Mejia 👨‍💻
 
-Soy un **estudiante de cierre pensum** en Ingeniería en Ciencias Sistemas, con un **gran amor por la programación** y un enfoque en el **desarrollo web**. He tenido la oportunidad de estudiar y trabajar con una amplia gama de tecnologías, desde **Java** hasta **Python**, pasando por **Node.js**, **Golang**, **C++**, **Arduino**.
+Soy un **estudiante de cierre pensum** en Ingeniería en Ciencias Sistemas, con un **gran pasion por la programación** y un enfoque en el **desarrollo web**. He tenido la oportunidad de estudiar y trabajar con una amplia gama de tecnologías, desde **Java** hasta **Python**, pasando por **Node.js**, **Golang**, **C++**, **Arduino**.
 
 Actualmente, estoy trabajando en mi **cierre de pensum** para completar mi carrera, pero he tenido el privilegio de aprender y experimentar con una variedad de herramientas y tecnologías a lo largo de mi formación. Me considero **proactivo**, con una fuerte orientación a **resolver problemas** y **mejorar continuamente**.
 
