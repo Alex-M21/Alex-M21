@@ -94,9 +94,7 @@ He desarrollado una serie de proyectos en los que he aplicado mis habilidades. A
 ---
 
 ### ☕ **Datos curiosos sobre mí**:
-- **Me encanta el café** y a menudo se convierte en mi compañero perfecto mientras programo.
 - **El ejercicio** es parte de mi rutina diaria para mantener el equilibrio entre trabajo y bienestar.
-- **Los videojuegos** son una de mis pasiones, y me encanta cómo el desarrollo de juegos se cruza con mis intereses en la programación.
 - **Aprender y enseñar** es un proceso continuo para mí. Siempre busco nuevas formas de mejorar mis habilidades y compartir lo que aprendo con los demás.
 
 ---
