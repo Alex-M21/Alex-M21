@@ -89,21 +89,36 @@ A React-based application designed to manage clients, rewards, points, packages,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-M21&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Alexander Mejia GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-M21&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-M21&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-M21&theme=radical" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex-M21&theme=radical" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-M21&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alex-M21&theme=radical&utcOffset=-6" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Alex-M21&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-M21&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Alex-M21?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Alex-M21?style=social" alt="GitHub Stars" />
 </p>
-
 ---
 
 ## 🎯 Professional Goals
